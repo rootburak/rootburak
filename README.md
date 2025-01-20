@@ -1,4 +1,6 @@
-attacks, and RAT (Remote Access Trojan) viruses. This early experience helped me better understand how systems work and the importance of protecting them.
+Hello, my name is Burak, and I am 20 years old. My journey into technology began at the age of 10 when I started with HTML and WordPress.
+
+At the age of 11, I began to focus on cybersecurity. I learned about various topics such as phishing, DDoS attacks, and RAT (Remote Access Trojan) viruses. This early experience helped me better understand how systems work and the importance of protecting them.
 
 When I was 14, I started learning C# and Unity, which led me into game development. During this time, I developed several games, which improved my programming skills and expanded my knowledge of software development.
 
