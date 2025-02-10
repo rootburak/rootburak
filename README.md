@@ -1,3 +1,7 @@
+Hello, I'm Burak and I'm 20 years old. My interest in technology started at the age of 10 with HTML and WordPress.
+
+At 11, I began to focus on cybersecurity. I gained knowledge on various topics such as phishing, DDoS attacks, and RAT (Remote Access Trojan) viruses.
+
 At 14, I started learning C# and Unity, which led me to game development. During this time, I developed several games, which improved my programming 
 
 skills and expanded my knowledge of software development.
