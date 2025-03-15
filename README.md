@@ -1,22 +1,23 @@
-## Hakkımda
 
-Ben Burak, yazılım dünyasına 10 yaşımda adım attım. İlk deneyimlerim, WordPress ve HTML kullanarak küçük web siteleri tasarlamakla başladı. Bu süreç, web geliştirme konusundaki temel bilgileri edinmemi sağladı.
+## About Me
+My name is Burak, and I am 20 years old.
 
-## Eğitim ve Deneyimler
+## Education and Experience
 
-- **12 Yaşında Siber Güvenlik**: DDoS, phishing ve RAT saldırıları gibi siber güvenlik konularında bilgi sahibi oldum. 
-  
-- **14 Yaşında Oyun Geliştirme**: C# programlama dilini öğrenerek Unity ile oyun geliştirme projelerine katıldım. Bu deneyim, oyun programlama becerilerimi geliştirdi.
+- **At Age 10**: I entered the world of software development. My first experiences involved designing small websites using WordPress and HTML, which provided me with fundamental knowledge in web development.
 
-- **17 Yaşında Uygulama Geliştirme**: Windows Forms kullanarak çeşitli uygulamalar tasarladım. Bu projeler arasında müzik oynatıcıları ve giriş sayfaları yer aldı.
+- **At Age 12 - Cybersecurity**: I gained knowledge in cybersecurity topics such as DDoS, phishing, and RAT attacks.
 
-- **18 Yaşında Üniversite Eğitimi**: Siber güvenlik alanında bir üniversite programına başladım. Bu eğitim, siber güvenlik konusundaki bilgimi derinleştirmemi sağladı.
+- **At Age 14 - Game Development**: I learned C# and participated in game development projects using Unity. This experience enhanced my skills in game programming.
 
-- **19 Yaşında Programlama Dilleri**: Python ve Ruby dillerini öğrenerek yazılım becerilerimi genişlettim.
-- 
-- **20 Yaşında Staj ve Freelance Projeler**: Front-end developer olarak Vue.js ile staj yaptım ve freelance olarak Django ile projeler geliştirdim. Ayrıca, Java (Spring), C# (ASP.NET), JavaScript (TypeScript, NestJS, Express.js, React) ve Rust dillerinde de bilgi sahibiyim.
-python(Django Flask FastApi)
+- **At Age 17 - Application Development**: I designed various applications using Windows Forms. These projects included music players and login pages.
 
-## Güncel Durum
+- **At Age 18 - University Education**: I began a university program focused on cybersecurity, which deepened my understanding of the field.
 
-Şu anda yazılım alanında kendimi geliştirmeye devam ediyorum.
+- **At Age 19 - Programming Languages**: I expanded my software skills by learning Python and Ruby.
+
+- **At Age 20 - Internships and Freelance Projects**: I interned as a front-end developer using Vue.js and developed projects as a freelancer with Django. Additionally, I have knowledge of Java (Spring), C# (ASP.NET), JavaScript (TypeScript, NestJS, Express.js, React), and Rust. I also work with Python frameworks such as Django, Flask, and FastAPI.
+
+## Current Status
+
+I am currently continuing to develop my skills in the software field. I view software not just as a job, but as a passion.
