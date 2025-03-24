@@ -16,8 +16,9 @@ My name is Burak, and I am 20 years old.
 
 - **At Age 19 - Programming Languages**: I expanded my software skills by learning Python and Ruby.
 
-- **At Age 20 - Internships and Freelance Projects**: I interned as a front-end developer using Vue.js and developed projects as a freelancer with Django. Additionally, I have knowledge of Java (Spring), C# (ASP.NET), JavaScript (TypeScript, NestJS, Express.js, React), and Rust. I also work with Python frameworks such as Django, Flask, and FastAPI.
-
+- **At Age 20 - Internships and Freelance Projects**: I interned as a front-end developer using Vue.js and developed projects as a freelancer with Django. Additionally,
+- I have knowledge of Python(Django,Flask,FastAPI.) Java(Spring,Hibernet),JavaScript(TypeScript,PrismaORM,NestJS,Express.js,React,Vue)+,Go(gin)
+  
 ## Current Status
-
-I am currently continuing to develop my skills in the software field. I view software not just as a job, but as a passion.
+I am currently continuing to develop my skills in the software field. 
+I view software not just as a job, but as a passion.
