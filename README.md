@@ -1,24 +1,89 @@
+📍City [Hatay] | 📧 [burak_eren1@outlook.com] | 🔗 LinkedIn [https://www.linkedin.com/in/burak-eren-089612356/]
 
-## About Me
-My name is Burak, and I am 20 years old.
+Personal Information
 
-## Education and Experience
+    Age: 20
+    Education Status: University (Associate Degree, Cyber Security)
 
-- **At Age 10**: I entered the world of software development. My first experiences involved designing small websites using WordPress and HTML, which provided me with fundamental knowledge in web development.
+Education
 
-- **At Age 12 - Cybersecurity**: I gained knowledge in cybersecurity topics such as DDoS, phishing, and RAT attacks.
+🎓 [Hatay Mustafa Kemal University]
 
-- **At Age 14 - Game Development**: I learned C# and participated in game development projects using Unity. This experience enhanced my skills in game programming.
+    Cyber Security (Associate Degree) | Ongoing
 
-- **At Age 17 - Application Development**: I designed various applications using Windows Forms. These projects included music players and login pages.
+🎓 [Tekirdağ Vocational and Technical Anatolian High School]
 
-- **At Age 18 - University Education**: I began a university program focused on cybersecurity, which deepened my understanding of the field.
+    Information Technologies Department | [2018-2022]
 
-- **At Age 19 - Programming Languages**: I expanded my software skills by learning Python and Ruby.
+My Career Journey
 
-- **At Age 20 - Internships and Freelance Projects**: I interned as a front-end developer using Vue.js and developed projects as a freelancer with Django. Additionally,
-- I have knowledge of Python(Django,Flask,FastAPI.) Java(Spring,Hibernet),JavaScript(TypeScript,PrismaORM,NestJS,Express.js,React,Vue)+,Go(gin)
-  
-## Current Status
-I am currently continuing to develop my skills in the software field. 
-I view software not just as a job, but as a passion.
+🔹 Age 10
+    
+    First step into web design: small websites with basic HTML/CSS.
+
+🔹 Age 12
+
+    Introduction to cyber security: Starting to research concepts like DDoS, phishing, and RAT.
+
+🔹 Age 14
+
+    Learning C# and developing 2D/3D games with Unity.
+
+🔹 Age 17
+
+    Developing desktop applications like music players and login systems with Windows Forms (C#).
+
+🔹 Age 20
+
+    Internship in front-end development with Vue.js.
+    Working on freelance projects with Django.
+    Focusing on languages like Python, Go, and Rust.
+
+Experience
+
+💼 [Company X] - Intern (Tekirdağ)
+
+    Fiber infrastructure & server installation in military institutions, ports, and schools.
+
+💼 Freelance Developer
+
+    Developing custom software solutions based on Django.
+
+💼 Front-End Developer Intern
+
+    Designing interfaces with Vue.js.
+
+Technical Skills
+
+🛠️ Programming Languages:
+
+    Python: Django, Flask, FastAPI
+    JavaScript/TypeScript: React, Vue.js, NestJS, Express.js
+    Others: Java (Spring), Go, Rust
+
+🌐 Other:
+
+    REST API design, database management (SQL), Docker.
+
+Projects
+
+🎮 Unity Games
+
+    2D platformer and simulation games developed with C#.
+
+📁 Windows Forms Applications
+
+    User management systems and multimedia tools.
+
+🌍 Full-Stack Web Projects
+
+    E-commerce and management panels with Django + Vue.js/React.
+
+Hobbies & Interests
+
+    Contributing to and sharing open-source projects and training
+    Testing new technologies
+    Research
+    History and Social Sciences
+
+"My passion for technology drives me to improve myself every day, and I expand my experience through interdisciplinary work."
