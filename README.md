@@ -31,8 +31,13 @@ My Career Journey
 
 🔹 Age 17
 
-    Developing desktop applications like music players and login systems with Windows Forms (C#).
+    Worked on fiber optic and server installations for military facilities, ports, and schools.
+    Developed desktop applications like music players and login systems with Windows Forms (C#).
+🔹 Age 18-19
 
+    Worked in reverse engineering applications, utilizing tools such as .NET decompilers, IDA Pro, and C++ decompilers.
+    Employed programs like Wireshark to scan for open ports and conducted educational password cracking attacks by capturing Wi-Fi hashes.
+    learned python and ruby
 🔹 Age 20
 
     Internship in front-end development with Vue.js.
